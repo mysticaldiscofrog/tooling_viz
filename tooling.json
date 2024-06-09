@@ -9,6 +9,29 @@
         ]
     },
     {
+        "Solution": "Compost Bin",
+        "Components": [
+            {"Labeled Component": "Generic Plastic Container"},
+            {"Labeled Component": "Generic Plastic Lid"},
+            {"Labeled Component": "Aeration Vents"},
+            {"Labeled Component": "Drainage System"},
+            {"Labeled Component": "Mixing Tool"},
+            {"Labeled Component": "Filtration Inserts"}
+        ]
+    },
+    {
+        "Solution": "Vermicomposting Bin",
+        "Components": [
+            {"Labeled Component": "Plastic Container"},
+            {"Labeled Component": "Specific Lid for Structural Components"},
+            {"Labeled Component": "Aeration Holes or Vents"},
+            {"Labeled Component": "Food Waste"},
+            {"Labeled Component": "Drainage System"},
+            {"Labeled Component": "Moisture Control"},
+            {"Labeled Component": "Filtration Inserts"}
+        ]
+    },
+    {
         "Solution": "Black Soldier Fly Bin",
         "Components": [
             {"Labeled Component": "Generic Plastic Container"},
@@ -19,84 +42,8 @@
             {"Labeled Component": "Larvae Collection Tray"},
             {"Labeled Component": "Moisture Control"},
             {"Labeled Component": "Egg-Laying Surface"},
-            {"Labeled Component": "Specific Lid for Additional Components"}
-        ]
-    },
-    {
-        "Solution": "Chicken Tractor",
-        "Components": [
-            {"Labeled Component": "Wire Mesh or Chicken Wire"},
-            {"Labeled Component": "Waterer"},
-            {"Labeled Component": "Feeder"},
-            {"Labeled Component": "Nesting Boxes"},
-            {"Labeled Component": "Roosting Bars"},
-            {"Labeled Component": "Shade Area"}
-        ]
-    },
-    {
-        "Solution": "Compost Bin",
-        "Components": [
-            {"Labeled Component": "Generic Plastic Container"},
-            {"Labeled Component": "Generic Plastic Lid"},
-            {"Labeled Component": "Aeration Vents"},
-            {"Labeled Component": "Drainage System"},
-            {"Labeled Component": "Mixing Tool"}
-        ]
-    },
-    {
-        "Solution": "Compost Bin Inserts",
-        "Components": [
-            {"Labeled Component": "Additional Filtration Inserts"}
-        ]
-    },
-    {
-        "Solution": "Vermicomposting Bin Inserts",
-        "Components": [
-            {"Labeled Component": "Additional Filtration Inserts"}
-        ]
-    },
-    {
-        "Solution": "Egg Incubator",
-        "Components": [
-            {"Labeled Component": "Insulated Container"},
-            {"Labeled Component": "Heating Element"},
-            {"Labeled Component": "Thermostat"},
-            {"Labeled Component": "Thermometer"},
-            {"Labeled Component": "Viewing Window"},
-            {"Labeled Component": "Fan"},
-            {"Labeled Component": "Hygrometer"},
-            {"Labeled Component": "Water Reservoir"}
-        ]
-    },
-    {
-        "Solution": "Egg Incubator (optional)",
-        "Components": [
-            {"Labeled Component": "Egg Turner"},
-            {"Labeled Component": "Viewing Window"}
-        ]
-    },
-    {
-        "Solution": "Ensure easy integration",
-        "Components": [
-            {"Labeled Component": "Standardized Dimensions"}
-        ]
-    },
-    {
-        "Solution": "Fit universally into modular container base",
-        "Components": [
-            {"Labeled Component": "Interchangeable Inserts"}
-        ]
-    },
-    {
-        "Solution": "For Black Soldier Fly Bin and Compost Bin",
-        "Components": [
-            {"Labeled Component": "Snap-in feeding trays"}
-        ]
-    },
-    {
-        "Solution": "For sand, gravel, activated carbon, mesh inserts, inlet/outlet pipes",
-        "Components": [
-            {"Labeled Component": "Stackable trays"}
+            {"Labeled Component": "Filtration Inserts"},
+            {"Labeled Component": "Waste Collection"}
         ]
     },
     {
@@ -154,6 +101,17 @@
         ]
     },
     {
+        "Solution": "Chicken Tractor",
+        "Components": [
+            {"Labeled Component": "Wire Mesh or Chicken Wire"},
+            {"Labeled Component": "Waterer"},
+            {"Labeled Component": "Feeder"},
+            {"Labeled Component": "Nesting Boxes"},
+            {"Labeled Component": "Roosting Bars"},
+            {"Labeled Component": "Shade Area"}
+        ]
+    },
+    {
         "Solution": "Stackable layers, mixing tools",
         "Components": [
             {"Labeled Component": "Waste Collection and Processing"}
@@ -181,18 +139,6 @@
         "Solution": "Universal drainage system, removable trays",
         "Components": [
             {"Labeled Component": "Modular Drainage System"}
-        ]
-    },
-    {
-        "Solution": "Vermicomposting Bin",
-        "Components": [
-            {"Labeled Component": "Plastic Container"},
-            {"Labeled Component": "Specific Lid for Structural Components"},
-            {"Labeled Component": "Aeration Holes or Vents"},
-            {"Labeled Component": "Food Waste"},
-            {"Labeled Component": "Drainage System"},
-            {"Labeled Component": "Moisture Control"},
-            {"Labeled Component": "Specific Lid for Additional Components"}
         ]
     },
     {
