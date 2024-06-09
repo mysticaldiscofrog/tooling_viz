@@ -1,0 +1,54 @@
+Solution,Component,Input,Output
+Biochar Kiln,CombustionChamber,DriedBiomass,Carbon
+Biochar Kiln,PerforatedPlate,,
+Biochar Kiln,HighTempThermometer,,
+Biochar Kiln,VentPipe,,
+Sand and Gravel Filter,,,Water
+Sand and Gravel Filter,,,SoilAmendment
+Sand and Gravel Filter,Sand,,
+Sand and Gravel Filter,Gravel,,
+Sand and Gravel Filter,Carbon,,
+Sand and Gravel Filter,FiltrationInserts,,
+Soil Testing Kit,SamplingTool,,
+Soil Testing Kit,TestTubes,,
+Soil Testing Kit,pHMeter,,
+Soil Testing Kit,NutrientTestingSolutions,,
+Soil Testing Kit,CalibrationSolutions,,
+Soil Testing Kit,DataRecordingApp,,
+Soil Testing Kit,InstructionManual,,
+Greenhouse Kit,MetalFrame,,
+Greenhouse Kit,CoveringMaterial,,
+Greenhouse Kit,Benches,,
+Greenhouse Kit,VentilationSystem,,
+Greenhouse Kit,Fan,,
+Greenhouse Kit,Thermometer,,
+Greenhouse Kit,Hygrometer,,
+Compost Bin,,Water,SoilAmendment
+Compost Bin,,KitchenScraps,
+Compost Bin,,,
+Compost Bin,,,
+Compost Bin,MixingTool,,
+Compost Bin,FiltrationInserts,,
+Vermicomposting Bin,,Water,SoilAmendment
+Vermicomposting Bin,,KitchenScraps,
+Vermicomposting Bin,,,
+Vermicomposting Bin,,,
+Vermicomposting Bin,MoistureControl,,
+Vermicomposting Bin,FiltrationInserts,,
+Black Soldier Fly Bin,,Water,AnimalFeed-Protein
+Black Soldier Fly Bin,,KitchenScraps,SoilAmendment
+Black Soldier Fly Bin,,,
+Black Soldier Fly Bin,FeedingTray,,
+Black Soldier Fly Bin,,,
+Black Soldier Fly Bin,LarvaeCollectionTray,,
+Black Soldier Fly Bin,MoistureControl,,
+Black Soldier Fly Bin,Egg-LayingSurface,,
+Black Soldier Fly Bin,RoomTempThermometer,,
+Black Soldier Fly Bin,FiltrationInserts,,
+Chicken Tractor,LargeFormatWireMesh,AnimalFeed-Protein,Eggs
+Chicken Tractor,AnimalFeedingComponent,AnimalFeed-Ruffage,Meat
+Chicken Tractor,AnimalWateringComponent,Water,FeedstockforDigester
+Chicken Tractor,NestingBoxes,KitchenScraps,
+Chicken Tractor,RoostingBars,,
+Chicken Tractor,CoveringMaterial,,
+Chicken Tractor,Framing,,
