@@ -1,0 +1,143 @@
+[
+    {
+        "Solution": "Biochar Kiln",
+        "Components": [
+            "Combustion Chamber",
+            "Perforated Plate",
+            "High Temp Thermometer",
+            "Vent Pipe"
+        ],
+        "Inputs": [
+            "Dried Biomass"
+        ],
+        "Outputs": [
+            "Carbon"
+        ]
+    },
+    {
+        "Solution": "Sand and Gravel Filter",
+        "Components": [
+            "Generic Plastic Container",
+            "Generic Plastic Lid",
+            "Sand",
+            "Gravel",
+            "Carbon",
+            "Filtration Inserts"
+        ],
+        "Inputs": [],
+        "Outputs": [
+            "Water",
+            "Soil Amendment"
+        ]
+    },
+    {
+        "Solution": "Soil Testing Kit",
+        "Components": [
+            "Sampling Tool",
+            "Test Tubes",
+            "pH Meter",
+            "Nutrient Testing Solutions",
+            "Calibration Solutions",
+            "Data Recording App",
+            "Instruction Manual"
+        ],
+        "Inputs": [],
+        "Outputs": []
+    },
+    {
+        "Solution": "Greenhouse Kit",
+        "Components": [
+            "Metal Frame",
+            "Covering Material",
+            "Benches",
+            "Ventilation System",
+            "Fan",
+            "Thermometer",
+            "Hygrometer"
+        ],
+        "Inputs": [],
+        "Outputs": []
+    },
+    {
+        "Solution": "Compost Bin",
+        "Components": [
+            "Generic Plastic Container",
+            "Generic Plastic Lid",
+            "Aeration Vent Insert",
+            "Drainage System Insert",
+            "Mixing Tool",
+            "Filtration Inserts"
+        ],
+        "Inputs": [
+            "Water",
+            "Kitchen Scraps"
+        ],
+        "Outputs": [
+            "Soil Amendment"
+        ]
+    },
+    {
+        "Solution": "Vermicomposting Bin",
+        "Components": [
+            "Generic Plastic Container",
+            "Generic Plastic Lid",
+            "Aeration Vent Insert",
+            "Drainage System Insert",
+            "Moisture Control",
+            "Filtration Inserts"
+        ],
+        "Inputs": [
+            "Water",
+            "Kitchen Scraps"
+        ],
+        "Outputs": [
+            "Soil Amendment"
+        ]
+    },
+    {
+        "Solution": "Black Soldier Fly Bin",
+        "Components": [
+            "Generic Plastic Container",
+            "Generic Plastic Lid",
+            "Aeration Vent Insert",
+            "Feeding Tray",
+            "Drainage System Insert",
+            "Larvae Collection Tray",
+            "Moisture Control",
+            "Egg-Laying Surface",
+            "Room Temp Thermometer",
+            "Filtration Inserts"
+        ],
+        "Inputs": [
+            "Water",
+            "Kitchen Scraps"
+        ],
+        "Outputs": [
+            "Animal Feed - Protein",
+            "Soil Amendment"
+        ]
+    },
+    {
+        "Solution": "Chicken Tractor",
+        "Components": [
+            "Large Format Wire Mesh",
+            "Animal Feeding Component",
+            "Animal Watering Component",
+            "Nesting Boxes",
+            "Roosting Bars",
+            "Covering Material",
+            "Framing"
+        ],
+        "Inputs": [
+            "Animal Feed - Protein",
+            "Animal Feed - Ruffage",
+            "Water",
+            "Kitchen Scraps"
+        ],
+        "Outputs": [
+            "Eggs",
+            "Meat",
+            "Feedstock for Digester"
+        ]
+    }
+]
