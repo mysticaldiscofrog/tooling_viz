@@ -1,0 +1,204 @@
+[
+    {
+        "Solution": "Biochar Kiln",
+        "Components": [
+            {"Labeled Component": "Combustion Chamber"},
+            {"Labeled Component": "Thermometer"},
+            {"Labeled Component": "Perforated Plate"},
+            {"Labeled Component": "Vent Pipe"}
+        ]
+    },
+    {
+        "Solution": "Black Soldier Fly Bin",
+        "Components": [
+            {"Labeled Component": "Generic Plastic Container"},
+            {"Labeled Component": "Generic Plastic Lid"},
+            {"Labeled Component": "Aeration Vents"},
+            {"Labeled Component": "Feeding Tray"},
+            {"Labeled Component": "Drainage System"},
+            {"Labeled Component": "Larvae Collection Tray"},
+            {"Labeled Component": "Moisture Control"},
+            {"Labeled Component": "Egg-Laying Surface"},
+            {"Labeled Component": "Specific Lid for Additional Components"}
+        ]
+    },
+    {
+        "Solution": "Chicken Tractor",
+        "Components": [
+            {"Labeled Component": "Wire Mesh or Chicken Wire"},
+            {"Labeled Component": "Waterer"},
+            {"Labeled Component": "Feeder"},
+            {"Labeled Component": "Nesting Boxes"},
+            {"Labeled Component": "Roosting Bars"},
+            {"Labeled Component": "Shade Area"}
+        ]
+    },
+    {
+        "Solution": "Compost Bin",
+        "Components": [
+            {"Labeled Component": "Generic Plastic Container"},
+            {"Labeled Component": "Generic Plastic Lid"},
+            {"Labeled Component": "Aeration Vents"},
+            {"Labeled Component": "Drainage System"},
+            {"Labeled Component": "Mixing Tool"}
+        ]
+    },
+    {
+        "Solution": "Compost Bin Inserts",
+        "Components": [
+            {"Labeled Component": "Additional Filtration Inserts"}
+        ]
+    },
+    {
+        "Solution": "Vermicomposting Bin Inserts",
+        "Components": [
+            {"Labeled Component": "Additional Filtration Inserts"}
+        ]
+    },
+    {
+        "Solution": "Egg Incubator",
+        "Components": [
+            {"Labeled Component": "Insulated Container"},
+            {"Labeled Component": "Heating Element"},
+            {"Labeled Component": "Thermostat"},
+            {"Labeled Component": "Thermometer"},
+            {"Labeled Component": "Viewing Window"},
+            {"Labeled Component": "Fan"},
+            {"Labeled Component": "Hygrometer"},
+            {"Labeled Component": "Water Reservoir"}
+        ]
+    },
+    {
+        "Solution": "Egg Incubator (optional)",
+        "Components": [
+            {"Labeled Component": "Egg Turner"},
+            {"Labeled Component": "Viewing Window"}
+        ]
+    },
+    {
+        "Solution": "Ensure easy integration",
+        "Components": [
+            {"Labeled Component": "Standardized Dimensions"}
+        ]
+    },
+    {
+        "Solution": "Fit universally into modular container base",
+        "Components": [
+            {"Labeled Component": "Interchangeable Inserts"}
+        ]
+    },
+    {
+        "Solution": "For Black Soldier Fly Bin and Compost Bin",
+        "Components": [
+            {"Labeled Component": "Snap-in feeding trays"}
+        ]
+    },
+    {
+        "Solution": "For sand, gravel, activated carbon, mesh inserts, inlet/outlet pipes",
+        "Components": [
+            {"Labeled Component": "Stackable trays"}
+        ]
+    },
+    {
+        "Solution": "Greenhouse Kit",
+        "Components": [
+            {"Labeled Component": "Metal or PVC Frame"},
+            {"Labeled Component": "Frame"},
+            {"Labeled Component": "Shelving or Benches"},
+            {"Labeled Component": "Ventilation System"},
+            {"Labeled Component": "Thermometer"},
+            {"Labeled Component": "Fan"},
+            {"Labeled Component": "Hygrometer"},
+            {"Labeled Component": "Covering Material"},
+            {"Labeled Component": "Anchoring System"}
+        ]
+    },
+    {
+        "Solution": "Interchangeable inserts, ventilation lid, removable tray",
+        "Components": [
+            {"Labeled Component": "Modular Container Base"}
+        ]
+    },
+    {
+        "Solution": "Modular feeder and waterer",
+        "Components": [
+            {"Labeled Component": "Universal Feeding Components"}
+        ]
+    },
+    {
+        "Solution": "Sand and Gravel Filter",
+        "Components": [
+            {"Labeled Component": "Plastic Container"},
+            {"Labeled Component": "Sand"},
+            {"Labeled Component": "Gravel"},
+            {"Labeled Component": "Activated Carbon"},
+            {"Labeled Component": "Mesh or Screen"}
+        ]
+    },
+    {
+        "Solution": "Snap-in/slide-in trays, drainage holes",
+        "Components": [
+            {"Labeled Component": "Black Soldier Fly Bin and Compost Bin Feeding Trays"}
+        ]
+    },
+    {
+        "Solution": "Soil Testing Kit",
+        "Components": [
+            {"Labeled Component": "Soil Sampling Tool"},
+            {"Labeled Component": "pH Testing Strips or Meter"},
+            {"Labeled Component": "Nutrient Testing Solutions"},
+            {"Labeled Component": "Test Tubes or Containers"},
+            {"Labeled Component": "Instruction Manual"},
+            {"Labeled Component": "Data Recording Sheets or App"},
+            {"Labeled Component": "Calibration Solutions"}
+        ]
+    },
+    {
+        "Solution": "Stackable layers, mixing tools",
+        "Components": [
+            {"Labeled Component": "Waste Collection and Processing"}
+        ]
+    },
+    {
+        "Solution": "Stackable trays, mesh support, piping",
+        "Components": [
+            {"Labeled Component": "Sand and Gravel Filter Insert"}
+        ]
+    },
+    {
+        "Solution": "Standard base, durable plastic or metal",
+        "Components": [
+            {"Labeled Component": "Modular Container Base"}
+        ]
+    },
+    {
+        "Solution": "Standard connectors",
+        "Components": [
+            {"Labeled Component": "Universal Connectors"}
+        ]
+    },
+    {
+        "Solution": "Universal drainage system, removable trays",
+        "Components": [
+            {"Labeled Component": "Modular Drainage System"}
+        ]
+    },
+    {
+        "Solution": "Vermicomposting Bin",
+        "Components": [
+            {"Labeled Component": "Plastic Container"},
+            {"Labeled Component": "Specific Lid for Structural Components"},
+            {"Labeled Component": "Aeration Holes or Vents"},
+            {"Labeled Component": "Food Waste"},
+            {"Labeled Component": "Drainage System"},
+            {"Labeled Component": "Moisture Control"},
+            {"Labeled Component": "Specific Lid for Additional Components"}
+        ]
+    },
+    {
+        "Solution": "With plugs, stackable composting trays, mixing tools",
+        "Components": [
+            {"Labeled Component": "Universal drainage trays"}
+        ]
+    }
+]
