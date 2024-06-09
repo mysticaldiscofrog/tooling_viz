@@ -1,0 +1,54 @@
+Solution,Component,Input,Output
+Biochar Kiln,Combustion Chamber,Dried Biomass,Carbon
+Biochar Kiln,Perforated Plate,,
+Biochar Kiln,High Temp Thermometer,,
+Biochar Kiln,Vent Pipe,,
+Sand and Gravel Filter,Generic Plastic Container,,Water
+Sand and Gravel Filter,Generic Plastic Lid,,Soil Amendment
+Sand and Gravel Filter,Sand,,
+Sand and Gravel Filter,Gravel,,
+Sand and Gravel Filter,Carbon,,
+Sand and Gravel Filter,Filtration Inserts,,
+Soil Testing Kit,Sampling Tool,,
+Soil Testing Kit,Test Tubes,,
+Soil Testing Kit,pH Meter,,
+Soil Testing Kit,Nutrient Testing Solutions,,
+Soil Testing Kit,Calibration Solutions,,
+Soil Testing Kit,Data Recording App,,
+Soil Testing Kit,Instruction Manual,,
+Greenhouse Kit,Metal Frame,,
+Greenhouse Kit,Covering Material,,
+Greenhouse Kit,Benches,,
+Greenhouse Kit,Ventilation System,,
+Greenhouse Kit,Fan,,
+Greenhouse Kit,Thermometer,,
+Greenhouse Kit,Hygrometer,,
+Compost Bin,Generic Plastic Container,Water,Soil Amendment
+Compost Bin,Generic Plastic Lid,Kitchen Scraps,
+Compost Bin,Aeration Vent Insert,,
+Compost Bin,Drainage System Insert,,
+Compost Bin,Mixing Tool,,
+Compost Bin,Filtration Inserts,,
+Vermicomposting Bin,Generic Plastic Container,Water,Soil Amendment
+Vermicomposting Bin,Generic Plastic Lid,Kitchen Scraps,
+Vermicomposting Bin,Aeration Vent Insert,,
+Vermicomposting Bin,Drainage System Insert,,
+Vermicomposting Bin,Moisture Control,,
+Vermicomposting Bin,Filtration Inserts,,
+Black Soldier Fly Bin,Generic Plastic Container,Water,Animal Feed - Protein
+Black Soldier Fly Bin,Generic Plastic Lid,Kitchen Scraps,Soil Amendment
+Black Soldier Fly Bin,Aeration Vent Insert,,
+Black Soldier Fly Bin,Feeding Tray,,
+Black Soldier Fly Bin,Drainage System Insert,,
+Black Soldier Fly Bin,Larvae Collection Tray,,
+Black Soldier Fly Bin,Moisture Control,,
+Black Soldier Fly Bin,Egg-Laying Surface,,
+Black Soldier Fly Bin,Room Temp Thermometer,,
+Black Soldier Fly Bin,Filtration Inserts,,
+Chicken Tractor,Large Format Wire Mesh,Animal Feed - Protein,Eggs
+Chicken Tractor,Animal Feeding Component,Animal Feed - Ruffage,Meat
+Chicken Tractor,Animal Watering Component,Water,Feedstock for Digester
+Chicken Tractor,Nesting Boxes,Kitchen Scraps,
+Chicken Tractor,Roosting Bars,,
+Chicken Tractor,Covering Material,,
+Chicken Tractor,Framing,,
